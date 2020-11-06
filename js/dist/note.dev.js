@@ -1,2 +1,0 @@
-// initial declarations
-"use strict";
